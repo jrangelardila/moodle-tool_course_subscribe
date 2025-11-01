@@ -31,3 +31,4 @@ $string['selectrole_desc'] = 'Seleccione un rol, a inscribir para el curso';
 $string['selectcourse'] = 'Seleccione el curso';
 $string['selectcourse_desc'] = 'Seleccione el curso, a inscribir para los usuarios';
 $string['service_desc'] = 'Matricular usuario al curso';
+$string['get_courses_desc'] = 'Retornar los cursos visibles';
